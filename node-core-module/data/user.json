@@ -1,10 +1,7 @@
 [
   {
     "name": "Satria",
-    "age": "21"
-  },
-  {
-    "name": "Reza",
-    "age": "20"
+    "email": "satria@gmail.com",
+    "age": 21
   }
 ]

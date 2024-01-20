@@ -19,7 +19,7 @@
   "homepage": "https://github.com/RatriaSeza/learn-node#readme",
   "dependencies": {
     "chalk": "^5.3.0",
-    "validator": "^13.5.2"
-  },
-  "type": "module" 
+    "validator": "^13.5.2",
+    "yargs": "^17.7.2"
+  }
 }
